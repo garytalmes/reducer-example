@@ -7,3 +7,5 @@ This example was heavily inspired by a great YouTube video by Harry Wolff. You c
 
 Highly recommended.
 
+For a quick look at the Javascript `array.reduce()` method, [see my codepen](https://codepen.io/garytalmes/pen/PoQPgZB?editors=1112).
+
